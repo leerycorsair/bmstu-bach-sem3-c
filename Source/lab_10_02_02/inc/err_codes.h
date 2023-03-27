@@ -1,0 +1,9 @@
+#ifndef __ERR_CODES_H__
+#define __ERR_CODES_H__
+
+#define SUCCESS 0
+#define INCORRECT_MENU_OPTION 1
+#define READING_ERROR 2
+#define UNSUCCESSFUL_MEMORY_ALLOCATION 3
+
+#endif

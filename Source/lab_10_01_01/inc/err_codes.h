@@ -1,0 +1,12 @@
+#ifndef __ERR_CODES_H__
+#define __ERR_CODES_H__
+
+#define SUCCESS 0
+#define INCORRECT_PARAMS 1
+#define READING_ERROR 2
+#define UNSUCCESSFUL_MEMORY_ALLOCATION 3
+
+#define NO_FILE -1
+#define INCORRECT_CONTENT -2
+
+#endif

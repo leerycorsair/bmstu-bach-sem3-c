@@ -1,0 +1,1 @@
+..\app.exe pos_010_in.txt year 2021

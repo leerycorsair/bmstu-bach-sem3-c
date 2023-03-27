@@ -1,0 +1,10 @@
+#ifndef __ERR_CODES_H__
+#define __ERR_CODES_H__
+
+
+#define SUCCESS 0
+#define MATRIX_CREATE_ERROR -1
+#define UNSUCCESSFUL_MEMORY_ALLOCATION -2
+#define POWER_READING_ERROR -3
+
+#endif

@@ -1,0 +1,19 @@
+#ifndef ERR_CODES_H
+#define ERR_CODES_H
+
+
+
+
+
+#define SUCCESS 0
+
+#define INCORRECT_NUMBER_OF_PARAMETERS -1
+#define INCORRECT_FIELD -2
+#define NO_FILE -3
+#define INCORRECT_CONTENT -4
+#define INCORRECT_YEAR_KEY -5
+#define EMPTY_STR -6
+#define INCORRECT_SEARCH_KEY -7
+#define UNSUCCESSFUL_MEMORY_ALLOCATION -8
+
+#endif
